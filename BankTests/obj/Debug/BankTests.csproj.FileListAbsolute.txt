@@ -1,0 +1,2 @@
+C:\Users\isabe\source\repos\Bank\BankTests\obj\Debug\BankTests.csprojAssemblyReference.cache
+C:\Users\isabe\source\repos\Bank\BankTests\obj\Debug\BankTests.csproj.CoreCompileInputs.cache

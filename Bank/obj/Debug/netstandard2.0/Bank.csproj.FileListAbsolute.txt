@@ -1,0 +1,9 @@
+C:\Users\isabe\source\repos\Bank\Bank\bin\Debug\netstandard2.0\Bank.deps.json
+C:\Users\isabe\source\repos\Bank\Bank\bin\Debug\netstandard2.0\Bank.dll
+C:\Users\isabe\source\repos\Bank\Bank\bin\Debug\netstandard2.0\Bank.pdb
+C:\Users\isabe\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.csprojAssemblyReference.cache
+C:\Users\isabe\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfo.cs
+C:\Users\isabe\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.dll
+C:\Users\isabe\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.pdb
